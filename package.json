@@ -1,0 +1,27 @@
+{
+  "name": "bitz-price",
+  "version": "1.0.0",
+  "description": "Next.js tutorial project",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cph-kiwi/bitz-price.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cph-kiwi/bitz-price/issues"
+  },
+  "homepage": "https://github.com/cph-kiwi/bitz-price#readme"
+}
